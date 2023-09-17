@@ -1,0 +1,29 @@
+{
+    "name": "Vessel #772",
+    "description": "TON Vessel",
+    "image": "https://ton-pixel.github.io/ton_vessels/images/image_772.png",
+    "edition": 50,
+    "date": 1694643017121,
+    "symbol": "Vessel",
+    "seller_fee_basis_points": 1000,
+    "external_url": "Vessel",
+    "collection": "No Name",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mountains"
+        },
+        {
+            "trait_type": "Lower Porthole",
+            "value": "Blue Bottom"
+        },
+        {
+            "trait_type": "Window",
+            "value": "Glass for Liner"
+        },
+        {
+            "trait_type": "Liner",
+            "value": "Double"
+        }
+    ]
+}
