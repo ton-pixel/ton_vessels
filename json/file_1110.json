@@ -1,0 +1,33 @@
+{
+    "name": "Vessel #1110",
+    "description": "TON Vessel",
+    "image": "https://ton-pixel.github.io/ton_vessels/images/image_1110.png",
+    "edition": 25,
+    "date": 1694730543397,
+    "symbol": "Vessel",
+    "seller_fee_basis_points": 1000,
+    "external_url": "Vessel",
+    "collection": "No Name",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Volcano"
+        },
+        {
+            "trait_type": "Lower Porthole",
+            "value": "Black Bottom"
+        },
+        {
+            "trait_type": "Window",
+            "value": "Glass for Liner"
+        },
+        {
+            "trait_type": "Liner",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Foreground",
+            "value": "Volcano"
+        }
+    ]
+}

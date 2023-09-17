@@ -1,0 +1,33 @@
+{
+    "name": "Vessel #1096",
+    "description": "TON Vessel",
+    "image": "https://ton-pixel.github.io/ton_vessels/images/image_1096.png",
+    "edition": 11,
+    "date": 1694730541658,
+    "symbol": "Vessel",
+    "seller_fee_basis_points": 1000,
+    "external_url": "Vessel",
+    "collection": "No Name",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Volcano"
+        },
+        {
+            "trait_type": "Lower Porthole",
+            "value": "Blue Bottom"
+        },
+        {
+            "trait_type": "Window",
+            "value": "Glass for Liner"
+        },
+        {
+            "trait_type": "Liner",
+            "value": "Leopard"
+        },
+        {
+            "trait_type": "Foreground",
+            "value": "Volcano"
+        }
+    ]
+}
