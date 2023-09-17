@@ -1,0 +1,33 @@
+{
+    "name": "Vessel #908",
+    "description": "TON Vessel",
+    "image": "https://ton-pixel.github.io/ton_vessels/images/image_908.png",
+    "edition": 39,
+    "date": 1694643314725,
+    "symbol": "Vessel",
+    "seller_fee_basis_points": 1000,
+    "external_url": "Vessel",
+    "collection": "No Name",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Rocks"
+        },
+        {
+            "trait_type": "Lower Porthole",
+            "value": "Black Bottom"
+        },
+        {
+            "trait_type": "Window",
+            "value": "Glass for Liner"
+        },
+        {
+            "trait_type": "Liner",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Foreground",
+            "value": "Rock"
+        }
+    ]
+}
