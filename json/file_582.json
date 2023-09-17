@@ -1,0 +1,25 @@
+{
+    "name": "Vessel #582",
+    "description": "TON Vessel",
+    "image": "https://ton-pixel.github.io/ton_vessels/images/image_582.png",
+    "edition": 16,
+    "date": 1694641860362,
+    "symbol": "Vessel",
+    "seller_fee_basis_points": 1000,
+    "external_url": "Vessel",
+    "collection": "No Name",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Port"
+        },
+        {
+            "trait_type": "Window",
+            "value": "Glass for Yacht"
+        },
+        {
+            "trait_type": "Yacht",
+            "value": "White"
+        }
+    ]
+}

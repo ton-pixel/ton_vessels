@@ -1,0 +1,29 @@
+{
+    "name": "Vessel #633",
+    "description": "TON Vessel",
+    "image": "https://ton-pixel.github.io/ton_vessels/images/image_633.png",
+    "edition": 19,
+    "date": 1694641963271,
+    "symbol": "Vessel",
+    "seller_fee_basis_points": 1000,
+    "external_url": "Vessel",
+    "collection": "No Name",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Sea"
+        },
+        {
+            "trait_type": "Window",
+            "value": "Glass for Yacht"
+        },
+        {
+            "trait_type": "Yacht",
+            "value": "Lime"
+        },
+        {
+            "trait_type": "Foreground",
+            "value": "Paradise Island"
+        }
+    ]
+}
