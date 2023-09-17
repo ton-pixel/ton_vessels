@@ -1,0 +1,33 @@
+{
+    "name": "Vessel #955",
+    "description": "TON Vessel",
+    "image": "https://ton-pixel.github.io/ton_vessels/images/image_955.png",
+    "edition": 14,
+    "date": 1694643390310,
+    "symbol": "Vessel",
+    "seller_fee_basis_points": 1000,
+    "external_url": "Vessel",
+    "collection": "No Name",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Sea"
+        },
+        {
+            "trait_type": "Lower Porthole",
+            "value": "Black Bottom"
+        },
+        {
+            "trait_type": "Window",
+            "value": "Glass for Liner"
+        },
+        {
+            "trait_type": "Liner",
+            "value": "Double"
+        },
+        {
+            "trait_type": "Foreground",
+            "value": "Paradise Island"
+        }
+    ]
+}
