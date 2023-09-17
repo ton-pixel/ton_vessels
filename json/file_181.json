@@ -1,0 +1,29 @@
+{
+    "name": "Vessel #181",
+    "description": "TON Vessel",
+    "image": "https://ton-pixel.github.io/ton_vessels/images/image_181.png",
+    "edition": 13,
+    "date": 1694634969805,
+    "symbol": "Vessel",
+    "seller_fee_basis_points": 1000,
+    "external_url": "Vessel",
+    "collection": "No Name",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "City"
+        },
+        {
+            "trait_type": "Window",
+            "value": "Glass for Bulk Carrier"
+        },
+        {
+            "trait_type": "Bulk Carrier",
+            "value": "Goan"
+        },
+        {
+            "trait_type": "Cargo",
+            "value": "Logs"
+        }
+    ]
+}

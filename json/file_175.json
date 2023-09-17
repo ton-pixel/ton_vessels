@@ -1,0 +1,29 @@
+{
+    "name": "Vessel #175",
+    "description": "TON Vessel",
+    "image": "https://ton-pixel.github.io/ton_vessels/images/image_175.png",
+    "edition": 7,
+    "date": 1694634968983,
+    "symbol": "Vessel",
+    "seller_fee_basis_points": 1000,
+    "external_url": "Vessel",
+    "collection": "No Name",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "City"
+        },
+        {
+            "trait_type": "Window",
+            "value": "Glass for Bulk Carrier"
+        },
+        {
+            "trait_type": "Bulk Carrier",
+            "value": "Mastersk"
+        },
+        {
+            "trait_type": "Cargo",
+            "value": "Container"
+        }
+    ]
+}
