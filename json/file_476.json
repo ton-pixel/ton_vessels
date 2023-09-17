@@ -1,0 +1,29 @@
+{
+    "name": "Vessel #476",
+    "description": "TON Vessel",
+    "image": "https://ton-pixel.github.io/ton_vessels/images/image_476.png",
+    "edition": 8,
+    "date": 1694639079639,
+    "symbol": "Vessel",
+    "seller_fee_basis_points": 1000,
+    "external_url": "Vessel",
+    "collection": "No Name",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Sea"
+        },
+        {
+            "trait_type": "Window",
+            "value": "Glass for Military"
+        },
+        {
+            "trait_type": "Military",
+            "value": "Winter Military"
+        },
+        {
+            "trait_type": "Foreground",
+            "value": "Paradise Island"
+        }
+    ]
+}

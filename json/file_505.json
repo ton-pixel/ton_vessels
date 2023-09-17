@@ -1,0 +1,21 @@
+{
+    "name": "Vessel #505",
+    "description": "TON Vessel",
+    "image": "https://ton-pixel.github.io/ton_vessels/images/image_505.png",
+    "edition": 1,
+    "date": 1694639410713,
+    "symbol": "Vessel",
+    "seller_fee_basis_points": 1000,
+    "external_url": "Vessel",
+    "collection": "No Name",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "City"
+        },
+        {
+            "trait_type": "Sailing",
+            "value": "Sailing"
+        }
+    ]
+}

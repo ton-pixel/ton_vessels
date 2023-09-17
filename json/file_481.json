@@ -1,0 +1,25 @@
+{
+    "name": "Vessel #481",
+    "description": "TON Vessel",
+    "image": "https://ton-pixel.github.io/ton_vessels/images/image_481.png",
+    "edition": 1,
+    "date": 1694639133553,
+    "symbol": "Vessel",
+    "seller_fee_basis_points": 1000,
+    "external_url": "Vessel",
+    "collection": "No Name",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Storm"
+        },
+        {
+            "trait_type": "Window",
+            "value": "Glass for Military"
+        },
+        {
+            "trait_type": "Military",
+            "value": "Military"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Vessel #473",
+    "description": "TON Vessel",
+    "image": "https://ton-pixel.github.io/ton_vessels/images/image_473.png",
+    "edition": 5,
+    "date": 1694639079308,
+    "symbol": "Vessel",
+    "seller_fee_basis_points": 1000,
+    "external_url": "Vessel",
+    "collection": "No Name",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Sea"
+        },
+        {
+            "trait_type": "Window",
+            "value": "Glass for Military"
+        },
+        {
+            "trait_type": "Military",
+            "value": "Desert Military"
+        }
+    ]
+}
