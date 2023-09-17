@@ -1,0 +1,25 @@
+{
+    "name": "Vessel #133",
+    "description": "TON Vessel",
+    "image": "https://ton-pixel.github.io/ton_vessels/images/image_133.png",
+    "edition": 1,
+    "date": 1694634198321,
+    "symbol": "Vessel",
+    "seller_fee_basis_points": 1000,
+    "external_url": "Vessel",
+    "collection": "No Name",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "Window",
+            "value": "Glass for Boat"
+        },
+        {
+            "trait_type": "Boat",
+            "value": "Fiery"
+        }
+    ]
+}

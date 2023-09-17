@@ -1,0 +1,29 @@
+{
+    "name": "Vessel #74",
+    "description": "TON Vessel",
+    "image": "https://ton-pixel.github.io/ton_vessels/images/image_74.png",
+    "edition": 2,
+    "date": 1694633993963,
+    "symbol": "Vessel",
+    "seller_fee_basis_points": 1000,
+    "external_url": "Vessel",
+    "collection": "No Name",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Rocks"
+        },
+        {
+            "trait_type": "Window",
+            "value": "Glass for Boat"
+        },
+        {
+            "trait_type": "Boat",
+            "value": "Tourist"
+        },
+        {
+            "trait_type": "Foreground",
+            "value": "Rock"
+        }
+    ]
+}
